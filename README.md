@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align = "center">
 
-<!--
-**lucykim05/lucykim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 김희주    Heeju Kim
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![lucykim05's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucykim05&show_icons=true&theme=nord-light)](https://github.com/lucykim05/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucykim05&layout=compact&theme=nord-light)
+
+### [👉🏻Click Me](https://about-me-ten-eosin.vercel.app/)
+
+
+<br>
+
+
+### 백준 푸는 중... (05.03 ~ ing)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=effelt22)](https://solved.ac/effelt22)
+
+![Baekjoon Graph](https://mazandi.herokuapp.com/api?handle=effelt22&theme=warm)
+
+
+
+
+</div>
