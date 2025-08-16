@@ -2,7 +2,7 @@
 # 김희주    Heeju Kim
 
 
-### [👉🏻Heeju's Portfolio](https://about-me-ten-eosin.vercel.app/)
+### [👉🏻Heeju's Portfolio](https://aboutme-inky-nine.vercel.app/)
 - 개인 포트폴리오 사이트
 <br>
 
