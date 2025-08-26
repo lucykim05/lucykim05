@@ -1,8 +1,12 @@
-
 # 김희주    Heeju Kim
-
-
 ### [👉🏻Heeju's Portfolio](https://aboutme-inky-nine.vercel.app/)
+
+<a href="mailto:effelt0905@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://velog.io/@lucy-kim04" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
+</a>
 
 ---
 
@@ -16,19 +20,21 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
-
+<br>
+  <br>
   <!-- 주요 프레임워크 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" />
 </p>
-
 
 
 ---
 
 ### 📌 Projects
 - **[Moving](https://github.com/fs-04-Moving/4-moving-team-fe1)**  
-  Next.js + Express + PostgreSQL 기반 이사 매칭 서비스 (2025.03~2025.05).  
+  Next.js + Express + PostgreSQL 기반 이사기매칭 서비스 (2025.03~2025.05).  
   소비자와 전문가를 연결해 견적 비교·선택이 가능한 플랫폼 구현.
 
 - **[ArtistCompany Re-design](https://github.com/lucykim05/ArtistCompany)**  
